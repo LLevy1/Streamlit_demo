@@ -1,0 +1,16 @@
+repos:
+-   repo: local
+    hooks:
+    # run the formatter
+    -   id: ruff-format
+        name: ruff-format
+        entry: ruff format --force-exclude
+        language: python
+        types_or: [ python, pyi, jupyter ]
+        # run the linter
+    -   id: ruff
+        name: ruff
+        description: "Run 'ruff' for extremely fast Python linting"
+        entry: ruff check --force-exclude
+        language: python
+        types_or: [python, pyi, jupyter]

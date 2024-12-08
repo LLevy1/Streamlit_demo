@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "streamlit-demo"
+version = "0.1.0"
+description = ""
+authors = ["llevy1 <leahshohet@hotmail.co.uk>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+streamlit = "^1.40.2"
+kaggle = "^1.6.17"
+ruff = "^0.8.2"
+plotly = "^5.24.1"
+pre-commit = "^4.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
