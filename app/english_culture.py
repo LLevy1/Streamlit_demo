@@ -9,7 +9,15 @@ data = pd.read_csv("./data/uk_landmarks.csv")
 
 st.title("British culture overview")
 
-st.scatter_chart(data=data, x="Year", y="Name", size="Visitors")
+options = data["Category"].unique()
+
+selected_cat = st.multiselect(label="Select the category", options=options)
+
+if selected_cat:
+    filtered_data = data[data["Category"].isin(selected_cat)]
+    st.scatter_chart(data=filtered_data, x="Year", y="Name", size="Visitors")
+else:
+    st.scatter_chart(data=data, x="Year", y="Name", size="Visitors")
 
 """
 Ok, that's nice but can we make it look better?
