@@ -6,7 +6,7 @@ import time
 
 ## A basic line chart
 
-df = pd.read_csv("../data/top_15_tea_countries_2004-2023")
+df = pd.read_csv("./data/top_15_tea_countries_2004_2023.csv")
 
 st.title("Top Tea Producing Countries from 2004-2023")
 

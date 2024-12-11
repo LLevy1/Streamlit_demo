@@ -2,18 +2,24 @@
 A repo to explore the possibilities within Streamlit. Content will be used at the PyWeb conference on the 5th January.
 
 To install Streamlit:
-```pip install streamlit```
+```
+pip install streamlit
+```
 
 Validate the installation by running the Hello app:
-```streamlit hello```
+```
+streamlit hello
+```
 
 This project uses poetry to manage dependencies. To add new packages run `poetry add my_package`.
 
 To activate the virtual environment run:
 
-```poetry shell```
+```
+poetry shell
+```
 
-To deactivate the environment run ```exit```
+To deactivate the environment run `exit`
 
 To install the pre-commit hooks run:
 ```

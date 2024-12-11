@@ -1,0 +1,19 @@
+ID,Category,Subcategory,Name,Location,Year,Visitors,Popularity Rating,Key Events,Level
+1,Landmarks,Historic Sites,Tower of London,London,1066,"2,800,000",9.5,"Royal residence, former prison, and museum.",5
+10,Landmarks,Castles,Windsor Castle,Windsor,1070,"1,500,000",9.6,The Queen’s official residence.,-4
+6,Literature,Classic Literature,"Shakespeare's ""Hamlet""",London,1600,"500,000",9.8,Iconic play by William Shakespeare.,12
+19,Traditions,Holidays,Bonfire Night,Nationwide,1605,"3,000,000",9.4,Celebrating the failed Gunpowder Plot.,-15
+12,Traditions,Royal Events,Changing of the Guard,London,1660,"1,000,000",9.3,Ceremony at Buckingham Palace.,2
+9,Food,Traditional Dishes,Full English Breakfast,Nationwide,1800,"1,500,000",8.8,Traditional hearty English breakfast.,-20
+18,Food,Regional Cuisine,Cornish Pasty,Cornwall,1800,"250,000",8.3,Traditional Cornish pastry.,12
+8,Food,Traditional Dishes,Fish and Chips,Nationwide,1860,"1,200,000",9.1,Popular British fast food.,-12
+5,Sports,Cricket,Ashes Series,Various Locations,1882,"1,000,000",8.7,Historic rivalry between England and Australia.,2
+14,Sports,Rugby,Six Nations Championship,Various Locations,1883,"500,000",8.5,International rugby competition.,-20
+20,Landmarks,Natural Wonders,Lake District,Cumbria,1951,"12,000,000",9.7,Famous national park known for its beauty.,12
+16,Events,Historic Events,Queen Elizabeth II's Coronation,London,1953,N/A,9.9,Queen Elizabeth II’s coronation ceremony.,-20
+11,Entertainment,Music,The Beatles,Liverpool,1960,"500,000",10,Iconic British band that changed music history.,2
+17,Festivals,Music,Notting Hill Carnival,London,1964,"2,000,000",9.2,Caribbean carnival with music and dance.,-20
+7,Festivals,Arts & Culture,Glastonbury Festival,"Pilton, Somerset",1970,"200,000",9.4,Major music and performing arts festival.,12
+4,Sports,Football (Soccer),Premier League,National (UK),1992,"20,000,000",10,Premier English football league.,-9
+15,Literature,Modern Literature,"""Harry Potter"" Series",Nationwide,1997,"120,000,000",10,Best-selling book series by J.K. Rowling.,2
+13,History,Modern History,Brexit Referendum,Nationwide,2016,N/A,9.1,Vote to leave the European Union.,-20
