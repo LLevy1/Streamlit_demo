@@ -25,3 +25,10 @@ To install the pre-commit hooks run:
 ```
 pre-commit install
 ```
+
+To run the visualisations do:
+
+```
+streamlit run app/english_culture.py
+```
+and a new window will appear in your browser with the app.
