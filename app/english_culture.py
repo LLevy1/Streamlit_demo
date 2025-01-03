@@ -5,7 +5,7 @@ st.set_page_config(layout="wide")
 
 ## A basic chart
 
-data = pd.read_csv("./data/uk_landmarks.csv")
+data = pd.read_csv("../data/uk_landmarks.csv")
 
 st.title("British culture overview")
 
