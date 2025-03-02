@@ -6,7 +6,7 @@ st.title("Spelling correction with TextBlob")
 st.write("Enter some text, and the model will check your spelling.")
 
 # Text input
-user_input = st.text_area("Enter text for spell checker:")
+user_input = st.text_area("Enter text for spell checker:", key="user_input")
 
 # When the user submits text
 if user_input:
