@@ -32,3 +32,8 @@ To run the visualisations do:
 streamlit run app/english_culture.py
 ```
 and a new window will appear in your browser with the app.
+
+To run unit tests with pytest:
+```
+pytest
+```
