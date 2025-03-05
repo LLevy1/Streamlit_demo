@@ -19,7 +19,7 @@ jobs:
         uses: snok/install-poetry@v1
 
       - name: Install library
-        run: poetry shell # Install dependencies
+        run: poetry install
 
       - name: Run tests
         run: |
