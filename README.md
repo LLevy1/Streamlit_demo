@@ -1,5 +1,8 @@
-# Streamlit_demo
-A repo to explore the possibilities within Streamlit. Content will be used at the PyWeb conference on the 5th January.
+![streamlit_logo](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-lighttext.png)
+
+# Streamlit demo
+
+A repo to explore the possibilities within Streamlit. Consists of different streamlit applications to showcase the possibilities of Streamlit.
 
 To install Streamlit:
 ```
@@ -11,7 +14,7 @@ Validate the installation by running the Hello app:
 streamlit hello
 ```
 
-This project uses poetry to manage dependencies. To add new packages run `poetry add my_package`.
+This project uses poetry to manage dependencies. To add new packages run `poetry add my_package`. To update packages run `poetry update`.
 
 To activate the virtual environment run:
 
