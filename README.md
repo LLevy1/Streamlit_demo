@@ -40,3 +40,4 @@ To run unit tests with pytest:
 ```
 pytest
 ```
+This project uses GitHub actions to automatically run linting checks and unit tests before branches are committed to the main branch
